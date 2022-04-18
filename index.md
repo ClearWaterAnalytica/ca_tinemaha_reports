@@ -1,6 +1,6 @@
 ---
 layout: home
-alt_title: "Oradell Reservoir"
+alt_title: "Tinemaha Reservoir"
 sub_title: "Harmful Algal Bloom Reports"
-image: /assets/images/oradell.jpg
+image: /assets/images/tinemaha.jpg
 ---
